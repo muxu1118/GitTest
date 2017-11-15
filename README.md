@@ -1,3 +1,2 @@
 # GitTest
 Gitのテストリポジトリ
-hello
